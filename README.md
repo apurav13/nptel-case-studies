@@ -63,15 +63,13 @@ The work focuses on practical implementation and understanding of modern web tec
 
 ---
 
+## Author
+Apurav Swami
 
+---
 
 ## 🛠️ Setup Instructions
 
 ```bash
 git clone https://github.com/apurav13/nptel-case-studies
 cd nptel-case-studies
-
-
-
-## Author
-Apurav Swami
