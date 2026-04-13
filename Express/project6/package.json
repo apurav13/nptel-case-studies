@@ -1,0 +1,15 @@
+{
+  "name": "citycare-hospital",
+  "version": "1.0.0",
+  "description": "Middleware example - CityCare Hospital Discharge System",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Apurav Swami",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.22.1"
+  }
+}
